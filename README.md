@@ -1,10 +1,11 @@
 # Business-Insights-360
-I am excited to share my learnings in Power BI project from codebasics. I have gained a lot of knowledge along the way and have had a great time working on this project. First of all, Power BI is an enhanced version of Excel. When working with huge amounts of data, creating dashboards in Power BI is quicker and easier than in Excel.
+     I am excited to share my learnings in Power BI project from codebasics. I have gained a lot of knowledge along the way and have had a great time working on this project. First of all, Power BI is an enhanced version of Excel. When working with huge amounts of data, creating dashboards in Power BI is quicker and easier than in Excel.
 
-Problem Statement
+##Problem Statement
 
-AtliQ is a rapidly expanding hardware company that distributes its products to consumers worldwide via a variety of channels, including online and physical retail stores, distributor networks, retail, and direct sales. AtliQ need a data analytics team to help with its expansion and enable it to make data-driven choices.
-Technology Used
+   AtliQ is a rapidly expanding hardware company that distributes its products to consumers worldwide via a variety of channels, including online and physical retail stores, distributor networks, retail, and direct sales. AtliQ need a data analytics team to help with its expansion and enable it to make data-driven choices.
+   
+##Technology Used
 •	SQL
 •	Power BI
 •	Excel
@@ -12,7 +13,7 @@ Technology Used
 •	Power Point
 •	Languages- M, DAX
 
-Domain knowledge:
+##Domain knowledge:
 
 •	Data analytics, data warehouse, data catalog, OLTP, OLAP
 •	Star schema, snowflake schema
@@ -31,7 +32,9 @@ Domain knowledge:
 •	Net profit, net profit percentage
 •	Sales quantity, forecast quantity
 •	Net error, absolute error, forecast accuracy
-Workflow steps:
+
+##Workflow steps:
+
 •	Project planning and scoping.
 •	Project Charter is the document containing key details like objective of the project, information about the stakeholders, hopes and fears regarding the project, timeline details, success measures, feature creep etc.
 •	Data collection and exploration, create date table in Power Query (M language).
@@ -46,7 +49,8 @@ Workflow steps:
 •	Implementing stakeholder feedback like switching between dynamic targets, using what-if parameter and measures to create dynamic slicer to filter visual, using bookmarks to switch between visuals, creating tooltip to show the trend, creating Executive dashboard.
 •	Deploying the solution using Power BI Service, report sharing.
 •	Automatic data refresh using gateways.
-Final Goal
+
+##Final Goal
 
 •	Finance View: Created Profit and Loss statement to understand financial performance across markets, products, customers etc.
 •	Sales View: Created Top/ Bottom customers along with key metrics.
